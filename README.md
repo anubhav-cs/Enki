@@ -1,4 +1,5 @@
-# zUra
+# zUra 
+# The project is currently work in progress...
 A general purpose AI bot for natural language processing
 
 # dependencies
