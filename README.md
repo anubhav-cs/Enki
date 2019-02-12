@@ -1,6 +1,6 @@
-# zUra 
+# Question Answering System 
 # The project is currently work in progress...
-A general purpose AI bot for natural language processing
+A general purpose questioning answering system
 
 # dependencies
 stanford-corenlp-full-2018-02-27
